@@ -3,10 +3,11 @@
 I’m a **Professional Android Developer** , **Professional UI/UX Designer**  💻 from Bangladesh 🇧🇩. Passionate about building modern, efficient, and user-friendly mobile applications using **Kotlin**, **Figma**, and the latest Android technologies. 🚀
 
 ---
+<img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
+
 ![GitHub followers](https://img.shields.io/github/followers/ar-sarkar-77?style=social)
 
 ![Profile views](https://komarev.com/ghpvc/?username=princesourov)
-
 
 
 ### 🚀 About Me:
@@ -17,8 +18,6 @@ I’m a **Professional Android Developer** , **Professional UI/UX Designer**  �
 - 🌱 Currently learning **Advanced Jetpack Compose & AI Integration in Apps**  
 
 
-
----
 
 ### 🛠️ Tech Stack:
 ![Kotlin](https://img.shields.io/badge/Kotlin-0095D5?style=for-the-badge&logo=kotlin&logoColor=white)
