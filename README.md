@@ -7,7 +7,7 @@ I’m a **Professional Android Developer** , **Professional UI/UX Designer**  �
 
 ![GitHub followers](https://img.shields.io/github/followers/ar-sarkar-77?style=social)
 
-![Profile views](https://komarev.com/ghpvc/?username=princesourov)
+![Profile views](https://komarev.com/ghpvc/?username=ar-sarkar-77)
 
 
 ### 🚀 About Me:
