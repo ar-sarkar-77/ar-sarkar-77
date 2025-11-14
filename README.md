@@ -29,7 +29,13 @@ Iâ€™m a **Professional Android Developer** , **Professional UI/UX Designer**  ðŸ
 ![REST API](https://img.shields.io/badge/REST%20API-6DB33F?style=for-the-badge&logo=postman&logoColor=white)
 ![Room Database](https://img.shields.io/badge/Room%20Database-8A2BE2?style=for-the-badge&logo=sqlite&logoColor=white)
 ![Data Security](https://img.shields.io/badge/Data%20Security-FF4500?style=for-the-badge&logo=keybase&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
+![Payment Gateway](https://img.shields.io/badge/Payment%20Gateway-0A2540?style=for-the-badge&logo=stripe&logoColor=white)
+![In-App Purchase](https://img.shields.io/badge/In%20App%20Purchase-34A853?style=for-the-badge&logo=google-play&logoColor=white)
+![Live Data](https://img.shields.io/badge/LiveData-FF6F00?style=for-the-badge&logo=android&logoColor=white)
+![Dagger Hilt](https://img.shields.io/badge/Dagger%20Hilt-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+
 
 ---
 
