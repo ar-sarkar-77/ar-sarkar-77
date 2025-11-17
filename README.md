@@ -1,6 +1,6 @@
 # Hi there, I'm Anondo Sarkar! 👋
 
-I’m a **Professional Android Developer** , **Professional UI/UX Designer**  💻 from Bangladesh 🇧🇩. Passionate about building modern, efficient, and user-friendly mobile applications using **Kotlin**, **Figma**, and the latest Android technologies. 🚀
+I’m a **Professional Android Developer** , **Professional UI/UX Designer**  💻 from Bangladesh 🇧🇩. Passionate about building modern, efficient, and user-friendly mobile applications using **Java**, **Kotlin**, **Figma**, and the latest Android technologies. 🚀
 
 ---
 <img align="right" alt="Coding" width="400" src="https://c.tenor.com/BqbIhT4Mb7cAAAAd/programmer-rounded-edges.gif">
