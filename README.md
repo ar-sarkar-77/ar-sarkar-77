@@ -1,4 +1,11 @@
-# Hi there, I'm Anondo Sarkar! 👋
+<img width="100%" src="https://raw.githubusercontent.com/shakilahmedatik/shakilahmedatik/main/banner.jpg" alt="cover" />
+
+
+<p align="left">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Hi+everyone+!;I'm+Anondo+Sarkar&color=ffffff&size=35&center=false&vCenter=true&width=500&font=source+code+pro" />
+  </a>
+</p>
 
 I’m a **Professional Android Developer** , **Professional UI/UX Designer**  💻 from Bangladesh 🇧🇩. Passionate about building modern, efficient, and user-friendly mobile applications using **Java**, **Kotlin**, **Figma** and the latest Android technologies. 🚀
 
@@ -40,9 +47,15 @@ I’m a **Professional Android Developer** , **Professional UI/UX Designer**  �
 ---
 
 ### 📊 GitHub Stats:
-![Anondo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ar-sarkar-77&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ar-sarkar-77&layout=compact&theme=radical)](https://github.com/ar-sarkar-77)
+<div align="center">
+<img width=390 src="https://github-readme-streak-stats-salesp07.vercel.app/?user=ar-sarkar-77&count_private=true&theme=react&border_radius=10" alt="streak stats"/>
+  
+![Anondo's GitHub stats](https://github-readme-stats.vercel.app/api?username=ar-sarkar-77&show_icons=true&theme=react)
+
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ar-sarkar-77&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=react&hide_border=false&order=2" height="150" alt="languages graph"  />
+</div>
+
 
 ---
 
@@ -52,10 +65,6 @@ I’m a **Professional Android Developer** , **Professional UI/UX Designer**  �
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/ar.anondo.sarkar)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anondo-sarkar-reduy-0216bb370)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/ar_sarkar77)
-
-
-
-
 
 ---
 
